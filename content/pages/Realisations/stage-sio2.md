@@ -4,8 +4,8 @@ Title: Stage SIO2
 
 > <u>**Dates du stage :**</u>
 >
-> - **Date début :** XX/01/2026
-> - **Date fin :** XX/01/2026
+> - **Date début :** 04/01/2026
+> - **Date fin :** 22/02/2027
 >
 > **Entreprise :** Nom de l'entreprise
 

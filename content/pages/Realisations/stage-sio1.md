@@ -4,10 +4,10 @@ Title: Stage SIO1
 
 > <u>**Dates du stage :**</u>
 >
-> - **Date début :** XX/06/2025
-> - **Date fin :** XX/06/2025
+> - **Date début :** 18/06/20256
+> - **Date fin :** 26/07/20256
 >
-> **Entreprise :** Nom de l'entreprise
+> **Entreprise :** Collège de Paris
 
 
 
@@ -16,3 +16,15 @@ Title: Stage SIO1
 
 
 # Missions & tâches réalisés : 
+- 3CX (outil de téléphonie)
+
+- Azure AD (pour l'Active Directory)
+
+- Beyond Trust(outil de prise en main à distance)
+
+- Coreview(outil de session de gestion)
+
+- Sharepoint
+- L'Asset( outil de gestion des services informatiques)
+
+- InTune(outil d'administration)

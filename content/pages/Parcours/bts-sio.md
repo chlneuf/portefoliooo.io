@@ -64,6 +64,7 @@ Les étudiants apprennent à concevoir, développer et maintenir des application
 - Culture générale et expression  
 - Anglais technique  
 - Mathématiques appliquées à l’informatique  
+- Mathématiques approfondie
 - Économie, management et droit  
 
 ### Matières professionnelles :

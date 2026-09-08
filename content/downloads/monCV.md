@@ -1,30 +1,30 @@
-# Jean DUPONT
+# Church-Hill EHIRIM
 Étudiant en BTS SIO – Option SLAM  
-📍 Lyon, France  
-📧 jean.dupont@example.com | 📱 06 12 34 56 78  
+📍 Montgeron, France  
+📧 churchhillehirim9@gmail.com | 📱 07 53 30 93 64  
 💼 [LinkedIn](https://www.linkedin.com/in/jeandupont) | 🌐 [Portfolio](https://jeandupont-portfolio.fr)
 
 ---
 
 ## 🎯 Objectif
-Passionné par le développement logiciel et les technologies web, je souhaite mettre mes compétences en programmation et en conception d’applications au service d’une entreprise innovante, tout en poursuivant mes études vers un Bachelor en informatique.
+Passionné par le développement logiciel et l'IA, je souhaite mettre mes compétences en programmation et en conception d’applications au service d’une entreprise innovante, tout en poursuivant mes études vers un Bachelor en informatique.
 
 ---
 
 ## 🎓 Formation
 **BTS Services Informatiques aux Organisations (SIO) – Option SLAM**  
-Lycée des Métiers de l’Informatique, Lyon  
-*2023 – 2025*  
+Lycée des Métiers de l’Informatique, Melun  
+*2025 – 2027*  
 
-**Baccalauréat Général – Spécialités Mathématiques et Numérique & Sciences Informatiques**  
-Lycée Jean Moulin, Lyon  
-*2020 – 2023* – Mention Bien  
+**Baccalauréat Science Technologique Management et Gestion  – Spécialités SIG ( Systèmes d'Informations et de Gestion )**  
+Lycée Rosa Parks, Montgeron  
+*2022 – 2025* –   
 
 ---
 
 ## 💻 Compétences techniques
 - **Langages** : Python, Java, Kotlin, PHP, SQL, JavaScript/TypeScript  
-- **Frameworks** : Spring Boot, Django, Angular, Bootstrap  
+- **Frameworks** : Bootstrap  
 - **Bases de données** : MySQL, MariaDB, PostgreSQL  
 - **Outils** : Git/GitHub, Docker, Linux, VirtualBox  
 - **Méthodes** : UML, Merise, Agile/Scrum  
@@ -32,12 +32,16 @@ Lycée Jean Moulin, Lyon
 ---
 
 ## 🛠️ Expériences
-**Stage – Développeur Web (8 semaines)**  
-Entreprise ABC Solutions, Lyon  
-*Mai – Juin 2024*  
-- Participation au développement d’une application web de gestion interne (Stack : Django + PostgreSQL).  
-- Création de modules CRUD pour la gestion des utilisateurs.  
-- Mise en place d’un système d’authentification sécurisé (JWT).  
+**Stage – Réseaux (8 semaines)**  
+Collège de Paris, La Défense  
+*Mai – Juin 2026*  
+- 3CX (outil de téléphonie)
+- Azure AD (pour l'Active Directory)
+- Beyond Trust(outil de prise en main à distance)
+- Coreview(outil de session de gestion)
+- Sharepoint
+- L'Asset( outil de gestion des services informatiques)
+- InTune(outil d'administration)
 
 **Projet scolaire – Application mobile “EuroCoasters”**  
 *2024*  
@@ -54,13 +58,12 @@ Entreprise ABC Solutions, Lyon
 
 ## 🌐 Langues
 - Français : langue maternelle  
-- Anglais : B2 – professionnel  
-- Espagnol : B1 – scolaire  
+- Anglais : B2 –   
+- Espagnol : B1 –   
 
 ---
 
 ## 🎨 Centres d’intérêt
-- Développement d’applications open source  
-- Cybersécurité et cryptographie  
+- Livres  
 - Sport (course à pied, natation)  
-- Engagement citoyen et associatif
+- Engagement citoyen 
